@@ -23,23 +23,23 @@
 |                                       |                                 |
 | Bývala viděna                         | Bývala viděna                   |
 | v malém baru U Rozhlasu               | v malém fóru na githubu         |
-| od sebe kolena                        | krčila ramena                   |
-| a cizí ruka kolem pasu                | a cizí                          |
+| od sebe kolena                        | lehce se ztratila               |
+| a cizí ruka kolem pasu                | a přidala se do fanklubu        |
 | trochu se napila                      | trochu se napila                |
 | trochu se opila                       | trochu se opila                 |
-| na účet redaktora                     |                                 |
-| za týden nato byla                    | za týden na to byla             |
-| hvězdou mikrofóra                     | hvězdou hovnokodu               |
+| na účet redaktora                     | na účet copilota                |
+| za týden na to byla                   | za týden na to byla             |
+| hvězdou mikrofóra                     | za čistého idiota               |
 |                                       |                                 |
-| Pod paží nosila                       |                                 |
-| rozepsané rukopisy                    |                                 |
-| ráno se budila                        |                                 |
-| vedle záchodové mísy                  |                                 |
-| múzou políbená                        |                                 |
-| životem potřísněná                    |                                 |
-| plná zázraků                          |                                 |
-| a pak ji vyhodili                     |                                 |
-| z gymlpu i z baráku                   |                                 |
+| Pod paží nosila                       | Na flashce nosila               |
+| rozepsané rukopisy                    | dokumenty pro levici            |
+| ráno se budila                        | večer se budila                 |
+| vedle záchodové mísy                  | s hlavou na klávesnici          |
+| múzou políbená                        | jskem políbená                  |
+| životem potřísněná                    | javou potřísněná                |
+| plná zázraků                          | plná rozpaků                    |
+| a pak ji vyhodili                     | a pak játra odešly              |
+| z gymlpu i z baráku                   | z rumů i z koňaků               |
 |                                       |                                 |
 | Šly řeči okolím                       |                                 |
 | že měla něco s Esembáky               |                                 |
@@ -56,10 +56,11 @@
 
 
 ### dočasné nápady
-Svůj kód psala podle vzoru kopilota
 
 nikdo neměl koule
 
 neslo nic
 
 tak jí pak zabásli a zapoměla na rodinu
+
+quora
