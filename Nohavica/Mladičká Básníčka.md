@@ -58,9 +58,9 @@
 ## 5.
 | <img width=300/>       | <img width=300/>       |
 |:-----------------------|------------------------|
-| Ve třetím měsíci       |                        |
-| dostala chuť na jahody |                        |
-| ale básníci-tatíci     |                        |
+| Ve třetím měsíci       |                        | 
+| dostala chuť na jahody |                        | 
+| ale básníci-tatíci     |                        | 
 | nepomýšlej' na rozvody |                        |
 | cítila u srdce         |                        |
 | jak po ní přešla       |                        |
