@@ -7,7 +7,7 @@
 |:------------------------------------------|-------------------------------------------|
 | Spatřil jsem kometu, oblohou letěla       | Spatřil jsem warningy, kódem mi letěly    |
 | Chtěl jsem jí zazpívat ona mi zmizela     | Chtěl jsem je pochytat ony mi zmizely     |
-| Zmizela jako laň u lesa v remízku         | Zmizely jako ... pingů                    |
+| Zmizela jako laň u lesa v remízku         | Zmizely jako změt smazaný souborů       |
 | V očích mi zbylo jen pár žlutých pení zků | V očích mi zbylo jen pár žlutých warningů |
 |                                           |                                           |
 
@@ -42,27 +42,27 @@
 | <img width=300/>                         | <img width=300/>                        |
 |:-----------------------------------------|-----------------------------------------|
 | Velká a odvěká tajemství přírody         | Velká a odvejká tajemství knihoven      |
-| Že jenom z člověka člověk se narodí      | že jenom autorej je pochopit je schopen |
-| Že kořen s větvemi ve strom se s pojuje  | že cápek z Aljašky je teď udržuje       | -- že žádná dokumentace neexistuje   
+| Že jenom z člověka člověk se narodí      | že jenom autore je pochopit je schopen  |
+| Že kořen s větvemi ve strom se s pojuje  | že cápek z Aljašky je teď udržuje       |
 | Krev našich nadějí vesmírem putuje       | legacy našich kódů firmou teď putuje    |
 |                                          |                                         |
 
 ## 6.
 | <img width=300/>                           | <img width=300/> |
 |:-------------------------------------------|------------------|
-| Spatřil jsem kometu byla jak reliéf        |                  |
-| Z pod rukou umělce který už nežije         |                  |
-| Šplhal jsem do nebe chtěl jsem ji osahat   |                  |
-| Marnost mě vysvlékla celého donaha         |                  |
+| Spatřil jsem kometu byla jak reliéf        | Spatřil jsem warningy, byly jak           |
+| Z pod rukou umělce který už nežije         | Z pod rukou autora který už nežije        |
+| Šplhal jsem do nebe chtěl jsem ji osahat   | Spechal jsem na zachod chtel je promazat  |
+| Marnost mě vysvlékla celého donaha         | Marnost me skolila                   |
 
 ## 7.
 | <img width=300/>                           | <img width=300/> |
 |:-------------------------------------------|------------------|
-| Jak socha Davida z bílého mramoru          |                  |
-| Stál jsem a hleděl jsem hleděl jsem nahoru |                  |
-| Až příště přiletí ach pýcho marnivá        |                  |
-| My už tu nebudem ale jiný jí zazpívá       |                  |
-|                                            |                  |
+| Jak socha Davida z bílého mramoru          | Jako test foobaru ze stare codebase   |
+| Stál jsem a hleděl jsem hleděl jsem nahoru | Sedel a hledel jsem uprene pred sebe  |
+| Až příště přiletí ach pýcho marnivá        | az priste                             |
+| My už tu nebudem ale jiný jí zazpívá       | my uz tu nebudem ale jiny je vyzkousi |
+|                                            |                                       |
 
 ## 8.
 | <img width=300/>                   | <img width=300/> |
