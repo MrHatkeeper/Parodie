@@ -52,7 +52,7 @@
 | životem potřísněná    | javou potřísněná       |
 | plná zázraků          | plná rozpaků           |
 | a pak ji vyhodili     | a pak játra odešly     |
-| z gymlpu i z baráku   | z rumů i z koňaků      |
+| z gymlpu i z baráku   | z rumů i z koňaků / heráku      |
 |                       |                        |
 
 ## 5.
