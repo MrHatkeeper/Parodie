@@ -1,18 +1,17 @@
 # Jsem na dálnici do brna
 
-
-Livin' easy
-Livin' free
-Season ticket on a one way ride
-Askin' nothin'
-Leave me be
-Takin' everythin' in my stride
-Don't need reason
-Don't need rhyme
-Ain't nothin' that I'd rather do
-Goin' down
-Party time
-My friends are gonna be there too
+Livin' easy |
+Livin' free |
+Season ticket on a one way ride |
+Askin' nothin' |
+Leave me be |
+Takin' everythin' in my stride |
+Don't need reason |
+Don't need rhyme |
+Ain't nothin' that I'd rather do |
+Goin' down |
+Party time |
+My friends are gonna be there too |
 
 I'm on the highway to hell
 On the highway to hell
