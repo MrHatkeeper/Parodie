@@ -1,18 +1,19 @@
-<h1>Jsem na dálnici do brna</h1>
+#Jsem na dálnici do brna
 
-| |
-|-------|
-|Livin' easy |
-|Livin' free |
-|Season ticket on a one way ride |
-|Askin' nothin' |
-|Leave me be |
-|Takin' everythin' in my stride |
-|Don't need reason |
-|Don't need rhyme |
-|Ain't nothin' that I'd rather do |
-|Goin' down |
-|Party time |
+Flexibus do brna
+| | |
+|-------|------|
+|Livin' easy | Žiju v čechách|
+|Livin' free |žiju rád|
+|Season ticket on a one way ride | nemám na co si stěžovat ?|
+|Askin' nothin' | Nechci vědět|
+|Leave me be | Nech mě být| 
+|Takin' everythin' in my stride | Už tak mám zkaženej den|
+|Don't need reason | Na co důvod|
+|Don't need rhyme | Proč rytmus|
+|Ain't nothin' that I'd rather do | |
+|Goin' down | Jedu dolů |
+|Party time | Jedu na jih |
 |My friends are gonna be there too |
 
 | |
