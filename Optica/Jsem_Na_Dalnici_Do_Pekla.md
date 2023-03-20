@@ -10,7 +10,7 @@ Flexibus do brna
 |Leave me be | Nech mě být| 
 |Takin' everythin' in my stride | Už tak mám zkaženej den|
 |Don't need reason | Na co důvod|
-|Don't need rhyme | Proč rytmus|
+|Don't need rhyme | Proč to dělám|
 |Ain't nothin' that I'd rather do | |
 |Goin' down | Jedu dolů |
 |Party time | Jedu na jih |
