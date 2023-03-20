@@ -1,4 +1,6 @@
-# Jsem na dálnici do brna
+| Attempt | #1    | #2    |
+| :---:   | :---: | :---: |
+| Seconds | 301   | 283   |# Jsem na dálnici do brna
 
 Livin' easy |
 Livin' free |
@@ -52,3 +54,7 @@ On the highway to hell
 And I'm goin' down
 All the way
 I'm on the highway to hell
+
+| Attempt | #1    | #2    |
+| :---:   | :---: | :---: |
+| Seconds | 301   | 283   |
