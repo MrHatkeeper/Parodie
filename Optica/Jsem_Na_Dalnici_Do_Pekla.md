@@ -1,2 +1,2 @@
-# Jsem na dálnici do pekla
+# Jsem na dálnici do brna
 
