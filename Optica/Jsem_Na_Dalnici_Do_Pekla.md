@@ -14,20 +14,20 @@ Flexibus do brna
 |Ain't nothin' that I'd rather do | |
 |Goin' down | Jedu dolů |
 |Party time | Jedu na jih |
-|My friends are gonna be there too |
+|My friends are gonna be there too | 
+
+| | |
+|-------|-----|
+|I'm on the highway to hell | jedu busem do Brna |
+|On the highway to hell| Flexibus do Brna |
+|Highway to hell| přez Velmez |
+|I'm on the highway to hell| Jedu busem do Brna |
 
 | |
 |-------|
-|I'm on the highway to hell|
-|On the highway to hell|
-|Highway to hell|
-|I'm on the highway to hell|
-
-| |
-|-------|
-|No stop signs|
-|Speed limit|
-|Nobody's gonna slow me down|
+|No stop signs| 
+|Speed limit| Maximálkou |
+|Nobody's gonna slow me down| 
 |Like a wheel |
 |Gonna spin it|
 |Nobody's gonna mess me around|
