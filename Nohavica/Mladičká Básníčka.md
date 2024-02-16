@@ -1,124 +1,80 @@
-# Mladičká básnířka
+1.
+ G     	D		  C			D			G D C D
+Mladičká ajťačka s nálepkama na kompjůtru,
 
-## 1.
-| <img width=300/>                      | <img width=300/>                |
-|:--------------------------------------|---------------------------------|
-| Mladičká básnířka                     | Mladičká ajťačka                |
-| s korálky nad kotníky                 | s nálepkama na kompjůtru        |
-| bouchala na dvířka                    | do školy jezdila                |
-| paláce poetiky                        | na elektrickém skútru           |
-| s někým se vyspala                    | s někým se vyspala              |
-| někomu nedala                         | zletilá nebyla                  |
-| láska jako hobby                      | coding jako hobby               |
-| pak o tom napsala sonet na čtyři doby | pak si udělala repa na projekty |
-|                                       |                                 |
+ G		 D		  C			D		Em
+do školy jezdila na elektrickém skůtru,
 
-## 2.
-| <img width=300/>          | <img width=300/>             |
-|:--------------------------|------------------------------|
-| Své srdce skloňovala      | Svůj kód přepsala            |   
-| podle vzoru Ferlinghetti  | a už jí nikdo nemoh zastavit |
-| ve vzduchu nechávala      | Ve svém kódu nechávala       |
-| viset vždy jen půlku věty | jenom funkce deprekejtyd     |
-| plná tragiky              | plná deprese                 |
-| plná mystiky              | plná agrese                  |
-| plná splínu               | plná kofeinu                 |
-| tak jí to otiskli         | tak jí pak najali            |
-| v jednom magazínu         | vydržela tam půlhodinu       |
-|                           |                              |
+		  C		  G			C    G			    D
+s někým se vyspala, … , coding I jako hobby,
 
-## 3.
-| <img width=300/>          | <img width=300/>         |
-|:--------------------------|--------------------------|
-| Bývala viděna             | Bývala viděna            |
-| v malém baru U Rozhlasu   | v malém fóru na githubu  |
-| od sebe kolena            | lehce se ztratila        |
-| a cizí ruka kolem pasu    | a přidala se do fanklubu |
-| trochu se napila          | trochu se napila         |
-| trochu se opila           | trochu se opila          |
-| na účet redaktora         | na účet copilota         |
-| za týden na to byla       | za týden na to byla      |
-| hvězdou mikrofóra         | za čistého idiota        |
-|                           |                          |
-
-## 4.
-| <img width=300/>      | <img width=300/>       |
-|:----------------------|------------------------|
-| Pod paží nosila       | Na flashce nosila      |
-| rozepsané rukopisy    | dokumenty pro levici   |
-| ráno se budila        | večer se budila        |
-| vedle záchodové mísy  | s hlavou na klávesnici |
-| múzou políbená        | jskem políbená         |
-| životem potřísněná    | javou potřísněná       |
-| plná zázraků          | plná rozpaků           |
-| a pak ji vyhodili     | a pak játra odešly     |
-| z gymlpu i z baráku   | z rumů i z koňaků / heráku      |
-|                       |                        |
-
-## 5.
-| <img width=300/>       | <img width=300/>       |
-|:-----------------------|------------------------|
-| Ve třetím měsíci       | Ve třetím ročníku      | 
-| dostala chuť na jahody | dostala chuť na        | 
-| ale básníci-tatíci     |                        | 
-| nepomýšlej' na rozvody |                        |
-| cítila u srdce         |                        |
-| jak po ní přešla       |                        |
-| železná bota           |                        |
-| tak o tom napsala      |                        |
-| sonet ze života        |                        |
-|                        |                        |
-
-**nebo alternativní 5**
-
-## 5.
-| <img width=300/>          | <img width=300/>           |
-|:--------------------------|----------------------------|
-| Šly řeči okolím           | Šly řeči okolím            |
-| že měla něco s Esembáky   | že měla něco s ekonomy     |
-| ať bylo cokoli            | ať to bylo cokoliv         |
-| přestala věřit na zázraky | dostala dva kanóny         | -- démony, telefony, sezóny, mikrofóny, milióny
-| cítila u srdce            | cítila u srdce             |
-| jak po ní přešla          |                            |
-| železná bota              |                            |
-| tak o tom napsala         |                            |
-| sonet ze života           |                            |
-|                           |                            |
+ G		D		C		D			G D C D
+moc nespala snad měla něco do zásoby.
 
 
-**buď se končí, nebo se přeskakuje**
+2.
+ G		   	D		C		D		G D C D
+Svůj kód psala podle vzoru kopilota,
 
-## wanna be konec.
-| <img width=300/>  | <img width=300/> |
-|:------------------|------------------|
-| Jó mladé básnířky |                  | 
-| vy mladé básnířky |                  | 
-| folkové básnířky  |                  | 
-| básnířky          |                  | 
+ G			 D	     C         D	     	Em
+v jejím srdci nezbylo nic než zlá temnota
 
-## 6.
-| <img width=300/>                   | <img width=300/>        |
-|:-----------------------------------|-------------------------|
-| Pak jedno pondělí                  |                         |
-| přišla na koncert na koleje        |                         |
-| a hlasem pokorným                  |                         |
-| prosila o text Darmoděje           |                         |
-| a jak ho vzala                     |                         |
-| tak se dala                        |                         |
-| tichounce do pláče                 |                         |
-| a její slzy kapaly na její mrkváče |                         |
-| a její slzy kapaly na její mrkváče |                         |
-| a její slzy kapaly na její mrkváče |                         |
-| a její slzy kapaly na její mrkváče |                         |
+		C	 G		C	G			D	
+plná deprese, plná agrese, plná kofeinu,
+
+ G				D		C		D		 G D C D
+a málem došlo i k tomu nejhoršímu.
 
 
+3.
+ G       D         C          D       G D C D
+Bývala viděna s plnou hlavou nesouhlasů,
 
-### dočasné nápady
+ G       D       C      D      Em
+a kódem plným nečitelných aliasů,
 
-nikdo neměl koule
+           C    G         C    G              D
+hodně se napila, trochu se opila, jak měla ve zvyku,
 
-neslo nic
+ G		   D	   C         D        G D C D
+a pak chtěla odškodnění ve svém podniku.
 
-tak jí pak zabásli a zapoměla na rodinu
 
-quora
+4.
+ G		 D		 C			D		 G D C D
+Na flashce nosila dokumenty pro levici,
+
+ G       D         C       D        Em
+večer se budila s hlavou na klávesnici,
+
+        C      G       C     G            D
+Javou políbená, JSkem potřísněná, plná rozpaků,
+
+ G          D       C         			 D 		   G D C D 	
+a pak ji vyhodili z práce i z činžáku.
+
+5.
+ G          D        C          D     G D C D
+Šli řeči okolím že měla něco s Linuxáky,
+
+ G        D       C             D       Em   
+ať bylo cokoliv, měla všechny za hlupáky,
+
+         C    G      C      G          D
+cítila na srdci jak jím bloumá prázdnota,
+
+ G         D             C     D      G D C D  
+
+a po depresích jí zbyla jen samota.
+
+
+6.
+ G           D        C         D       G D C D
+Pak jednou v podnělí přišla do mé kanceláře,
+
+ G       D         C           D         Em 
+a hlasem nejistým prosila o místo vývojáře,
+
+         C       G        C       G           D
+a když ho dostala, tiše se zeptala, a co plat,
+
