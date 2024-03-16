@@ -58,7 +58,7 @@
 ## 7.
 | <img width=300/>                           | <img width=300/> |
 |:-------------------------------------------|------------------|
-| Jak socha Davida z bílého mramoru          | Jako test foobaru ze stare codebase   |
+| Jak socha Davida z bílého mramoru          | # Jako test foobaru ze stare codebase / jak lajna v kabbadi z bíleho kokajnu   |
 | Stál jsem a hleděl jsem hleděl jsem nahoru | Sedel a hledel jsem uprene pred sebe  |
 | Až příště přiletí ach pýcho marnivá        | # az priste                             |
 | My už tu nebudem ale jiný jí zazpívá       | #my uz tu nebudem ale jiny je vyzkousi |
