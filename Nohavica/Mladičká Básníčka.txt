@@ -1,11 +1,11 @@
 1.
-G     	D		  C			D			G D C D
+G     	D	  C		D	G D C D
 Mladičká ajťačka s nálepkama na kompjůtru,
 
- G		 D		  C			D		Em
-do školy jezdila na elektrickém skůtru,
+ G	 D	  C	     D	    Em
+do školy jezdila na elektrickém skůtru, //moc dlouhé
 
-		  C		  G			C    G			    D
+	  C		  G			C    G			    D
 s někým se vyspala, zletilá nebyla , coding I jako hobby,
 
  G		D		C		D			G D C D
@@ -37,7 +37,7 @@ a kódem plným nečitelných aliasů,
 hodně se napila, trochu se opila, jak měla ve zvyku,
 
  G		   D	   C         D        G D C D
-a pak chtěla odškodnění ve svém podniku.
+a pak chtěla odškodnění ve svém podniku. //moc krátké
 
 
 4.
